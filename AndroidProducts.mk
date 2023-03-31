@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h918.mk
+    $(LOCAL_DIR)/lmodroid_h918.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_h918-userdebug \
-    lineage_h918-eng
+    lmodroid_h918-userdebug \
+    lmodroid_h918-eng
